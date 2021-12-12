@@ -16,6 +16,9 @@ Well, the day this repo was created is the day I started playing with this devic
 
 ## How to get started and access: 
 
+ Serial console, boot:
+
+![Screenshot](.previews/bootlog.gif)
 
 - Serial Console (RS-232)
 
