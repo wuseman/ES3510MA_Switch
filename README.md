@@ -4,9 +4,6 @@ Lets keep this repo minimal, neat and elegant.
 
 The funny thing is that I got it from a friend a few years ago (my friends are awesome they supporting me alot with all kind of hardware just for fun, you know who you are)
 
-When I'm done with a device I can not see it anymore and 9 out of 10 gadgets end up in the trash NOW value,
-for me the knowledge is the all valuable. I do not hack anything for money, everything as a hobbit.
-
 Personally I have a 10Gbit fibre connection + 1Gbit (sorry telia, but there was a port free om the switch)  
 and it can only handle 2GBiT but has a transfer speed of 5.6Gb / s, it is damn much better than I thought anyway. 
 
