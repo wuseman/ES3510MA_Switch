@@ -10,6 +10,20 @@ and it can only handle 2GBiT but has a transfer speed of 5.6Gb / s, it is damn m
 I was really  surprised when I found it in the box and googled it quickly so I became curious because there is not much info online about it.
 Well, the day this repo was created is the day I started playing with this device, so I am completely unaware of what awaits for challenges;)
 
+## Features
+
+- Performance and Scalability with 5.6 Gbps switching capacity
+
+- Supports G.8032 Ethernet Ring Protection Switching, with the ability for the network to detected and recover from incidents without impacting users
+
+- Continuous Availability - IEEE802.1w Rapid Spanning Tree Protocol, IEEE 802.1s Multiple Spanning Tree Protocol, Multicast VLAN Registration (MVR), voice VLAN feature and IEEE 802.1Q-in-Q VLAN Tag.
+
+- Comprehensive QoS - Traffic is prioritized according to 802.1p, DSCP, IP precedence and TCP/UDP port number, giving optimal performance to real-time applications such as voice and video.
+
+- Enhanced Security with Port security limits, IEEE 802.1X port-based or MAC-based access control, Access Control Lists (ACLs), TACACS+ 3.0 Authentication for _ applications, Private VLANs and Secure Shell (SSH) and Secure Sockets Layer (SSL/HTTPS) providing secure network management.
+
+- Simple Management with an idustry-standard command-line interface (CLI), IP Source Guard, DHCP snooping and DHCP Option 82.
+
 
 ## How to get started and access: 
 
